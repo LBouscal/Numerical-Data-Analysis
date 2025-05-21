@@ -1,7 +1,7 @@
 # 📊 Numerical Data Analysis Table
 
 ## 📈 Overview
-This Tableau project focuses on analyzing all numerical data by region. It organizes key metrics into a table, making it easy to compare values across different regions.
+This Tableau project analyzes numerical data by region. It organizes key metrics into a table, making comparing values across different regions easy.
 
 Through this project, I developed my skills in table formatting, numerical data summarization, and dynamic region-based comparisons.
 
@@ -12,7 +12,8 @@ Through this project, I developed my skills in table formatting, numerical data 
 [Click here to view the Tableau Visualization](https://public.tableau.com/app/profile/layshla.bouscal/viz/TabletoAnalyzeAlloftheNumericalData/Region)
 
 ## 📷 Project Preview
-![Numerical Data Table Screenshot](numerical_data_table.png)
+![Sheet 1 (1)](https://github.com/user-attachments/assets/3aace0cb-7c4f-40d4-8a92-eb3ece8d3b6b)
+
 
 ## 🧠 Key Concepts
 - Data summarization
