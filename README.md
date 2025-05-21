@@ -12,7 +12,7 @@ Through this project, I developed my skills in table formatting, numerical data 
 [Click here to view the Tableau Visualization](https://public.tableau.com/app/profile/layshla.bouscal/viz/TabletoAnalyzeAlloftheNumericalData/Region)
 
 ## 📷 Project Preview
-![Sheet 1 (1)](https://github.com/user-attachments/assets/3aace0cb-7c4f-40d4-8a92-eb3ece8d3b6b)
+![Region](https://github.com/user-attachments/assets/a058b190-01b4-4497-b455-192f3eec8fbf)
 
 
 ## 🧠 Key Concepts
